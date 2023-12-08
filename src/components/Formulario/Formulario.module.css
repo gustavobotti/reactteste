@@ -1,0 +1,22 @@
+.container {
+    position: fixed;
+    border: 10px solid purple;
+    top: 50%;
+    left: 50%;
+    height: 400px;
+    width: 500px;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    box-shadow: 5px 10px black;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+h1 hr {
+    border: 1px solid purple;
+}
+
+h2 {padding-top: 20px;}
